@@ -1,0 +1,17 @@
+Origin: iCat 爱吃肉的猫
+Label: iCat's Repo
+Suite: stable
+Version: 1.0
+Codename: iCat
+Architectures: iphoneos-arm
+Components: main
+Description: iCat's Repo - 越狱软件源
+
+#Origin: 源名称，Cydia中显示在源列表以及软件详情页下方
+#Label: 源名称，Cydia中显示在插件列表中插件名称下方
+#Suite: 源类型，可以是oldstable/stable/beta/unstable/experimental，取决于你的需要，默认情况stable
+#Version: 源版本，通常情况下不需要变动，但是如果更新了，客户端会提示
+#Codename: 这个是随意的，只是一个标识，但它必须是英文
+#Architectures: 架构，针对iOS越狱的源统一填iphoneos-arm
+#Components: 通常情况下这里写main，本文不涉及更复杂结构
+#Description: 源描述，在这里简要阐述软件源的信息
