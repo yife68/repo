@@ -1,0 +1,15 @@
+Package: com.Meuicat.smobaGame
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: iCat
+Installed-Size: 2875
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.Meuicat.smobaGame.deb
+Size: 354588
+MD5sum: 40c067e9ae222c4d5e36318094ff989f
+SHA1: 39c62b0d5dacbbae337ac095186aa939bdeb5f4f
+SHA256: 2daefe1a1fe65e95421ff2ece4cefa2cc867b179d5b64d31d3e99a048674ff16
+Section: Tweaks
+Description: iCat
+Author: iCat
+Name: iCat免费版
