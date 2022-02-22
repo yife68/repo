@@ -1,0 +1,31 @@
+Package: cn.yttxcs.actionbar
+Version: 1.3.7
+Section: 插件
+Filename: debs/cn.yttxcs.actionbar_1.3.7_iphoneos-arm.deb
+Size: 72512
+MD5sum: c9b6ed6fc9c4665a5a003c1945fbc57f
+Maintainer: 他是个疯子 <409774743@qq.com>
+Description: 在iphone的键盘上增加,快速粘贴,复制,全线按钮,汉化破解版
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+ModernDepiction: https://yttxcs.cn/depiction/sileo/actionbar.json
+Installed-Size: 416
+Name: ActionBar「粘贴增强」
+Author: RestiveConch  <409774743@qq.com>
+Sponsor: 幺筒源<409774743@qq.com>
+Icon: https://yttxcs.com/image/icon/actionbar.png
+
+Package: com.Meuicat.smobaGame
+Name: iCat免费版
+Architecture: iphoneos-arm
+Filename: debs/com.Meuicat.smobaGame.deb
+Size: 354588
+MD5sum: 40c067e9ae222c4d5e36318094ff989f
+Description: iCat
+Maintainer: iCat
+Author: iCat
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1
+Installed-Size: 2875
+

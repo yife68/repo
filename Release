@@ -1,0 +1,13 @@
+Origin: iCat 爱吃肉的猫1
+Label: iCat 爱吃肉的猫2
+Suite: stable
+Version: 1.0
+Codename: iCat 爱吃肉的猫3
+Architectures: iphoneos-arm
+Components: main
+Description: iCat 爱吃肉的猫4
+MD5Sum:
+ 292cc9ce39b353dd0e10db4931a22846 953 Packages
+ 78c6f9e532289d598aad81c5d09ac19e 710 Packages.bz2
+ 3967901f457d5c6e86f96cafcb85c9cd 621 Packages.gz
+
