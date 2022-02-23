@@ -1,13 +1,13 @@
-Origin: iCat 爱吃肉的猫1
-Label: iCat 爱吃肉的猫2
+Origin: iCat 爱吃肉的猫
+Label: iCat's Repo
 Suite: stable
 Version: 1.0
-Codename: iCat 爱吃肉的猫3
+Codename: iCat
 Architectures: iphoneos-arm
 Components: main
-Description: iCat 爱吃肉的猫4
+Description: iCat's Repo - 越狱软件源
 MD5Sum:
- 292cc9ce39b353dd0e10db4931a22846 953 Packages
- 78c6f9e532289d598aad81c5d09ac19e 710 Packages.bz2
- 3967901f457d5c6e86f96cafcb85c9cd 621 Packages.gz
+ 6ed8eedce2f8f9df1eee0dd49d7e3fd1 732 Packages
+ 32cd73a2ae55dcf4b62ec36b1f1eaf90 634 Packages.bz2
+ 3ae0a333b8e47f0d3c2b30afa293c8a6 582 Packages.gz
 

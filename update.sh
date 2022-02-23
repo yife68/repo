@@ -44,7 +44,7 @@ if [ -e "$ws/Packages" ]; then
 else
 #
 # other repo should modify this url
-	wget http://35free.net/jackie099
+	wget https://meuicat.com
 # end of modify Packages' url
 #
 fi
@@ -160,14 +160,14 @@ fi
 size=$(stat -c %s "$ws/Packages.gz")
 echo " $md5 $size Packages.gz" >> "$ws/.rel"
 echo >> "$ws/.rel"
-echo "Origin: iCat 爱吃肉的猫1" > "$ws/.rl"
-echo "Label: iCat 爱吃肉的猫2" >> "$ws/.rl"
+echo "Origin: iCat 爱吃肉的猫" > "$ws/.rl"
+echo "Label: iCat's Repo" >> "$ws/.rl"
 echo "Suite: stable" >> "$ws/.rl"
 echo "Version: 1.0" >> "$ws/.rl"
-echo "Codename: iCat 爱吃肉的猫3" >> "$ws/.rl"
+echo "Codename: iCat" >> "$ws/.rl"
 echo "Architectures: iphoneos-arm" >> "$ws/.rl"
 echo "Components: main" >> "$ws/.rl"
-echo "Description: iCat 爱吃肉的猫4" >> "$ws/.rl"
+echo "Description: iCat's Repo - 越狱软件源" >> "$ws/.rl"
 echo "MD5Sum:" >> "$ws/.rl"
 cat "$ws/.rl" "$ws/.rel" > "$ws/Release"
 rm -f "$ws/.rel" "$ws/.rl"
