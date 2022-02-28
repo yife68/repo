@@ -51,6 +51,22 @@ Icon: file:///Applications/Cydia.app/Sections/icat-gj.png
 Description: 程序图标向上滑动或者长按查看和访问程序数据，清除缓存/角标等，类似IconTweak/AppTools插件，汉化设置，支持iOS11+
 Depiction: https://meuicat.com/ms/description.html?id=appdata
 
+Package: cn.meuicat.appstoreplus
+Version: 0.9.18
+Section: 增强插件
+Filename: debs/cn.meuicat.appstoreplus_0.9.18_iphoneos-arm.deb
+Size: 2003840
+MD5sum: ecebc20cc7fcdba2e6db7d6de663f5d1
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Name: AppStore Plsu「降级工具」
+Author: CokePokes
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-zq.png
+Description: App Store应用降级；支持解除200M下载限制
+Depiction: https://meuicat.com/ms/description.html?id=appstoreplus
+
 Package: cn.meuicat.appsyncunified
 Version: 104.0
 Section: 系统插件
@@ -119,6 +135,38 @@ Icon: file:///Applications/Cydia.app/Sections/icat-gj.png
 Description: 支持Chimera12-12.4专版-A12.可在cydia下载插件.备份源,插件
 Depiction: https://meuicat.com/ms/description.html?id=cydown
 
+Package: cn.meuicat.dismissalert
+Version: 0.0.7
+Section: 工具插件
+Filename: debs/cn.meuicat.dismissalert_0.0.7_iphoneos-arm.deb
+Size: 75536
+MD5sum: cc32ac42151a8f857e58bd9a21b79556
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate, com.spark.libsparkapplist, preferenceloader
+Architecture: iphoneos-arm
+Name: DismissAlert 「关闭应用内弹窗」
+Author: lenglengyu
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-gj.png
+Description: 强制取消系统弹窗，如授权弹窗、app签名到期弹窗等等
+Depiction: https://meuicat.com/ms/description.html?id=dismissalert
+
+Package: cn.meuicat.dumpdecrypter
+Version: 1.2-9.4
+Section: 工具插件
+Filename: debs/cn.meuicat.dumpdecrypter_1.2-9.4_iphoneos-arm.deb
+Size: 229872
+MD5sum: d0edfea5b0bd8a76a5a6b2ad03083bf9
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Name: DumpDecrypter「砸壳工具」
+Author: Netskao
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-gj.png
+Description: DumpDecrypter是基于dumpdecrypted的修改封装；使用方式：通过桌面的DumpDecrypter应用程序选择需要解密的应用，在dumpdecrypted基础上增加可选删除小组件可选删除手表组件，可选删除版本限制，可选删除设备限制，解密完整应用并导出至/var/mobile/Documents/DumpDecrypter，选择应用后自动杀掉应用进程重新开始，解密前加载所有Frameworks等
+Depiction: https://meuicat.com/ms/description.html?id=dumpdecrypter
+
 Package: cn.meuicat.filza.pj
 Version: 3.9.0-2
 Section: 工具插件
@@ -154,6 +202,22 @@ Icon: file:///Applications/Cydia.app/Sections/icat-pb.png
 Description: 又一款屏蔽越狱插件，单独屏蔽越狱检测激活面容、指纹支付，安装完在桌面即可打开使用；支付宝建议使用libertybeta
 Depiction: https://meuicat.com/ms/description.html?id=flyjbx
 
+Package: cn.meuicat.fy2dt6zczyw1004
+Version: 4.0
+Section: 字体插件
+Filename: debs/cn.meuicat.fy2dt6zczyw1004_4.0_iphoneos-arm.deb
+Size: 88020008
+MD5sum: 1e57fdbff260dff6d34e85446ddef820
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: firmware (>= 11.0),mobilesubstrate
+Architecture: iphoneos-arm
+Name: 粉圆2.0动态6字重中英文100% 「直装字体」
+Author: 拾陆字
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-zt.png
+Description: 粉圆2.0动态6字重中英文100%直装字体；兼容系统:IOS13-IOS14
+Depiction: https://meuicat.com/ms/description.html?id=fy2dt6zczyw1004
+
 Package: cn.meuicat.goodwifi
 Version: 0.0~beta6
 Section: 工具插件
@@ -171,12 +235,60 @@ Icon: file:///Applications/Cydia.app/Sections/icat-gj.png
 Description: WiFi信息显示，已连接过的密码显示
 Depiction: https://meuicat.com/ms/description.html?id=goodwifi
 
+Package: cn.meuicat.hmhtgbdt6zczyw1004
+Version: 4.0
+Section: 字体插件
+Filename: debs/cn.meuicat.hmhtgbdt6zczyw1004_4.0_iphoneos-arm.deb
+Size: 61263092
+MD5sum: fdbd7d7b42dd779c384b3ea681591113
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: firmware (>= 11.0),mobilesubstrate
+Architecture: iphoneos-arm
+Name: 鸿蒙黑体国标动态6字重中英文100% 「直装字体」
+Author: 犬神志
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-zt.png
+Description: 鸿蒙黑体国标动态6字重中英文100%直装字体；兼容系统:IOS13-IOS14
+Depiction: https://meuicat.com/ms/description.html?id=hmhtgbdt6zczyw1004
+
+Package: cn.meuicat.hmyttcbdt6zczyw100
+Version: 4.5
+Section: 字体插件
+Filename: debs/cn.meuicat.hmyttcbdt6zczyw100_4.5_iphoneos-arm.deb
+Size: 85025852
+MD5sum: 3f2faf550ef4e4618bbd48fb7b4c263f
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: firmware (>= 13.0),mobilesubstrate
+Architecture: iphoneos-arm
+Name: 鸿蒙圆体TC版动态六字重中英文100%「直装字体」
+Author: 犬神志
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-zt.png
+Description: 鸿蒙圆体TC版动态六字重中英文100%直装字体；兼容系统:IOS13-IOS14；封包时间:2021年05月14日12:15:04
+Depiction: https://meuicat.com/ms/description.html?id=hmyttcbdt6zczyw100
+
+Package: cn.meuicat.hyzy5zczyw1004
+Version: 4.0
+Section: 字体插件
+Filename: debs/cn.meuicat.hyzy5zczyw1004_4.0_iphoneos-arm.deb
+Size: 53291196
+MD5sum: 30777f7113624fd115ac1ee6f59de93a
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: firmware (>= 11.0),mobilesubstrate
+Architecture: iphoneos-arm
+Name: 汉仪正圆五字重中英文100% 「直装字体」
+Author: 字由心雨
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-zt.png
+Description: 汉仪正圆五字重中英文100%直装字体；兼容系统:IOS13-IOS14
+Depiction: https://meuicat.com/ms/description.html?id=hyzy5zczyw1004
+
 Package: cn.meuicat.icattb
-Version: 0.3
-Section: 必装 「本源图标」
-Filename: debs/cn.meuicat.icattb_0.3_iphoneos-arm.deb
-Size: 40268
-MD5sum: def79fc00a687c3d5c42141940f800b3
+Version: 0.5
+Section: 系统增强
+Filename: debs/cn.meuicat.icattb_0.5_iphoneos-arm.deb
+Size: 34128
+MD5sum: 063e0af59444317920c8bf59746f1eeb
 Essential: yes
 Maintainer: 亦封 <2714344056@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
@@ -184,9 +296,195 @@ Architecture: iphoneos-arm
 Name: iCat源图标「分类图标」
 Author: 亦封
 Sponsor: 亦封<2714344056@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/icat.png
+Icon: file:///Applications/Cydia.app/Sections/icat-zq.png
 Description: 必装！本源的列表分类图标，否则会显示问号
-Depiction: https://meuicat.com/repo/desc/description.html?id=icattb
+Depiction: https://meuicat.com/ms/description.html?id=icattb
+
+Package: cn.meuicat.icleanerpro.pj
+Version: 7.9.1
+Section: 工具插件
+Filename: debs/cn.meuicat.icleanerpro.pj_7.9.1_iphoneos-arm.deb
+Size: 2928300
+MD5sum: 9a942a6b265f5ffe4e216179abc323d7
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Name: iCleaner Pro「系统清理破解版」
+Author: Ivano Bilenchi
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-gj.png
+Description: 真正第一个iOS垃圾清理和优化的软件，还包含了插件管理等
+Depiction: https://meuicat.com/ms/description.html?id=icleanerpropj
+
+Package: cn.meuicat.intelligentpass3
+Version: 1.2.2
+Section: 增强插件
+Filename: debs/cn.meuicat.intelligentpass3_1.2.2_iphoneos-arm.deb
+Size: 142316
+MD5sum: c4130549c6958f58b4e8d510b2978330
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate, firmware(>=13.0), firmware(<<15.0), preferenceloader, ru.rejail.graphite
+Architecture: iphoneos-arm
+Name: IntelligentPass 3「智能锁屏通行证」
+Author: Geometric Software
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-zq.png
+Description: 当连接到信任的设备wifi或蓝牙时，关闭密码选项，直接解锁
+Depiction: https://meuicat.com/ms/description.html?id=intelligentpass3
+
+Package: cn.meuicat.jumpadvideo
+Version: 0.1-3
+Section: 工具插件
+Filename: debs/cn.meuicat.jumpadvideo_0.1-3_iphoneos-arm.deb
+Size: 29872
+MD5sum: e8d6415a5d98637ea7bfffd064d7d754
+Priority: optional
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Name: 激励视频跳过助手 「跳过广告」
+Author: 土拨鼠
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-gj.png
+Description: 主要针对调用调用AVPlayer播放视频广告的各种小游戏，例如微信小游戏，支持BU、GDT开头的激励视频广告，更新为3DTouch启用插件功能
+Depiction: https://meuicat.com/ms/description.html?id=jumpadvideo
+
+Package: cn.meuicat.llwpro6zczyw1004
+Version: 4.0
+Section: 字体插件
+Filename: debs/cn.meuicat.llwpro6zczyw1004_4.0_iphoneos-arm.deb
+Size: 57434552
+MD5sum: d138867ed83f631a9de925db2b33f96e
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: firmware (>= 11.0),mobilesubstrate
+Architecture: iphoneos-arm
+Name: 离乐丸Pro六字重中英文100% 「直装字体」
+Author: 拾陆字
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-zt.png
+Description: 离乐丸Pro六字重中英文100%直装字体；兼容系统:IOS13-IOS14
+Depiction: https://meuicat.com/ms/description.html?id=llwpro6zczyw1004
+
+Package: cn.meuicat.localiapstore13
+Version: 0.0.2
+Section: 增强插件
+Filename: debs/cn.meuicat.localiapstore13_0.0.2_iphoneos-arm.deb
+Size: 2916
+MD5sum: f62053275b5f8c55dc0ee15396e0128a
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: LocalIAPStore13 「内购破解」
+Author: pxcex
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-zq.png
+Description: 部分应用或游戏内购，包括IOS 13旁路锁iCloud（绕过验证密码、触摸ID或人脸ID）
+Depiction: https://meuicat.com/ms/description.html?id=localiapstore13
+
+Package: cn.meuicat.networkspeed13
+Version: 3.0.1
+Section: 工具插件
+Filename: debs/cn.meuicat.networkspeed13_3.0.1_iphoneos-arm.deb
+Size: 650496
+MD5sum: 48064c99032cd7b15cde57a55af537ce
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Architecture: iphoneos-arm
+Name: NetworkSpeed13「状态栏网速」
+Author: Johnzaro
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-gj.png
+Description: 在状态栏中显示上传和下载速度
+Depiction: https://meuicat.com/ms/description.html?id=networkspeed13
+
+Package: cn.meuicat.newterm2
+Version: 2.5
+Section: 开发插件
+Filename: debs/cn.meuicat.newterm2_2.5_iphoneos-arm.deb
+Size: 2022472
+MD5sum: 6cf28a2617639965e58cc4fec0bf3875
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Architecture: iphoneos-arm
+Name: NewTerm 2「IOS11-IOS14终端」
+Author: HASHBANG
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-kf.png
+Description: 终端工具,ios11-ios14汉化版
+Depiction: https://meuicat.com/ms/description.html?id=newterm2
+
+Package: cn.meuicat.pulloverpro
+Version: 2.1.1
+Section: 工具插件
+Filename: debs/cn.meuicat.pulloverpro_2.1.1_iphoneos-arm.deb
+Size: 741468
+MD5sum: 6e3311885b14349114d637e745e0f9c5
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Architecture: iphoneos-arm
+Name: PullOver Pro 「分屏」
+Author: c1d3r
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-gj.png
+Description: 分屏工具｜侧边快捷唤出应用程序
+Depiction: https://meuicat.com/ms/description.html?id=pulloverpro
+
+Package: cn.meuicat.pulloverproapappview
+Version: 1.1
+Section: 工具插件
+Filename: debs/cn.meuicat.pulloverproapappview_1.1_iphoneos-arm.deb
+Size: 25944
+MD5sum: 70fcae33a031508958b825311293b1ff
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Name: PullOver Pro Keyboard Fix「分屏键盘修复」
+Author: Baw Appie
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-gj.png
+Description: 修复iOS14使用PullOver Pro 键盘不显示问题
+Depiction: https://meuicat.com/ms/description.html?id=pulloverproapappview
+
+Package: cn.meuicat.snowboardh
+Version: 1.4.20~Beta4
+Section: 增强插件
+Filename: debs/cn.meuicat.snowboardh_1.4.20~Beta4_iphoneos-arm.deb
+Size: 2414656
+MD5sum: c3533907b567e676ae808d289e1bd7d9
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard,cn.meuicat.snowboard.settingsicons, cn.meuicat.snowboard.proceduralwallpapers, cn.meuicat.snowboard.masks,cn.meuicat.snowboard, cn.meuicat.snowboard.statusbar, cn.meuicat.snowboard.respringextension, cn.meuicat.snowboard.presetextension, cn.meuicat.snowboard.pagedots, cn.meuicat.snowboard.labels, cn.meuicat.snowboard.fonts, cn.meuicat.snowboard.effects, cn.meuicat.snowboard.dock
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Architecture: iphoneos-arm
+Name: SnowBoard「滑雪板附件整合版」
+Author: Spark & Dennis D. Bednarz
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-zq.png
+Description: 滑雪板整合版,SnowBoard滑雪板主题平台
+Depiction: https://meuicat.com/ms/description.html?id=snowboardh
+
+Package: cn.meuicat.tetherme8
+Version: 1.2.3-1
+Section: 增强插件
+Filename: debs/cn.meuicat.tetherme8_1.2.3-1_iphoneos-arm.deb
+Size: 80996
+MD5sum: a9f93af7a057127f90911f0e1edfefaa
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Architecture: iphoneos-arm
+Name: TetherMe 「网络分享自定义」
+Author: Sam Bingner
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-zq.png
+Description: 自定义 APN 与 网络共享方式（可把自身梯子网络以热点的方式共享出去给别的设备上网）
+Depiction: https://meuicat.com/ms/description.html?id=tetherme8
 
 Package: cn.meuicat.WeAppTool
 Version: 0.1-6
@@ -203,4 +501,36 @@ Sponsor: 亦封<2714344056@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/icat-gj.png
 Description: 微信小程序调试助手，可复制小程序跳转链接，适用开发者调试
 Depiction: https://meuicat.com/ms/description.html?id=weapptool
+
+Package: cn.meuicat.wifiqr
+Version: 1.1
+Section: 增强插件
+Filename: debs/cn.meuicat.wifiqr_1.1_iphoneos-arm.deb
+Size: 37800
+MD5sum: cf91cd2b441c107d127ba4c2e4765c3a
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Architecture: iphoneos-arm
+Name: WiFiQR「WiFi二维码」
+Author: Fouad Raheb
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-zq.png
+Description: 直接从设置生成WiFi网络的二维码
+Depiction: https://meuicat.com/ms/description.html?id=wifiqr
+
+Package: cn.meuicat.xiaohongshu
+Version: 1.0-2
+Section: 工具插件
+Filename: debs/cn.meuicat.xiaohongshu_1.0-2_iphoneos-arm.deb
+Size: 102448
+MD5sum: 09aa1baee3a9c91a8935f75ca33bad37
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: 小红书高级版 「无水印下载」
+Author: Netskao
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icon-gj.png
+Description: 小红书去除图片水印，开启视频下载，点击悬浮下载按钮即可下载，添加视频下载进度
+Depiction: https://meuicat.com/ms/description.html?id=xiaohongshu
 
