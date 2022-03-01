@@ -695,12 +695,178 @@ Icon: file:///Applications/Cydia.app/Sections/icat-zq.png
 Description: 电池没电时，不必再进行越狱了！Sentinel旨在帮助您避免用尽电池后不必再次越狱。当电池电量达到设定的百分比时,将虚假关机,启动时不必再次越狱
 Depiction: https://meuicat.com/ms/description.html?id=sentinel
 
+Package: cn.meuicat.snowboard
+Version: 1.4.20~Beta4
+Section: 美化插件
+Filename: debs/cn.meuicat.snowboard_1.4.20~Beta4_iphoneos-arm.deb
+Size: 2414444
+MD5sum: 1712e6ec6c1d530aecab9b40a0591a07
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Architecture: iphoneos-arm
+Name: Snowboard 「主题平台」
+Author: Spark & Dennis D. Bednarz
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icat-mh.png
+Description: 优秀的iOS主题平台
+Depiction: https://meuicat.com/ms/description.html?id=snowboard
+
+Package: cn.meuicat.snowboard.effects
+Version: 1.1.2~Beta4
+Section: 美化插件
+Filename: debs/cn.meuicat.snowboard.effects_1.1.2~Beta4_iphoneos-arm.deb
+Size: 65628
+MD5sum: 8006f6e3926092e3e9f074ae95093ff2
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: SnowBoard Effects 「效果扩展」
+Author: Spark
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icat-mh.png
+Description: 滑雪板（SnowBoard）的效果扩展
+Depiction: https://meuicat.com/ms/description.html?id=effects
+
+Package: cn.meuicat.snowboard.fonts
+Version: 1.0.12~Beta4
+Section: 美化插件
+Filename: debs/cn.meuicat.snowboard.fonts_1.0.12~Beta4_iphoneos-arm.deb
+Size: 21304
+MD5sum: ed47da9469529eb16b67540d2e27eed2
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate
+Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
+Provides: com.ipr.bytafont, com.bytafont.bytafont3
+Replaces: com.ipr.bytafont, com.bytafont.bytafont3
+Architecture: iphoneos-arm
+Name: SnowBoard Fonts 「字体拓展」
+Author: Spark
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icat-mh.png
+Description: 使SnowBoard主题平台支持字体加载模块
+Depiction: https://meuicat.com/ms/description.html?id=fonts
+
+Package: cn.meuicat.snowboard.labels
+Version: 1.1.0~Beta4
+Section: 美化插件
+Filename: debs/cn.meuicat.snowboard.labels_1.1.0~Beta4_iphoneos-arm.deb
+Size: 23164
+MD5sum: e1e88c8f002c4f5875e70369da4fdb5d
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: SnowBoard Labels 「标签扩展」
+Author: Spark
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icat-mh.png
+Description: 滑雪板（SnowBoard）的标签扩展
+Depiction: https://meuicat.com/ms/description.html?id=labels
+
+Package: cn.meuicat.snowboard.masks
+Version: 1.1.0~Beta4
+Section: 美化插件
+Filename: debs/cn.meuicat.snowboard.masks_1.1.0~Beta4_iphoneos-arm.deb
+Size: 32764
+MD5sum: 8bda6134e238d50281022d5a220e3be2
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: SnowBoard Masks 「遮罩扩展」
+Author: Spark
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icat-mh.png
+Description: 滑雪板（SnowBoard）的图标遮罩扩展
+Depiction: https://meuicat.com/ms/description.html?id=masks
+
+Package: cn.meuicat.snowboard.pagedots
+Version: 1.1.0~Beta4
+Section: 美化插件
+Filename: debs/cn.meuicat.snowboard.pagedots_1.1.0~Beta4_iphoneos-arm.deb
+Size: 36472
+MD5sum: ac217385603d317445bbafe5bc73ff8c
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: SnowBoard Pagedots 「页点扩展」
+Author: Spark
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icat-mh.png
+Description: 滑雪板（SnowBoard）的页点扩展
+Depiction: https://meuicat.com/ms/description.html?id=pagedots
+
+Package: cn.meuicat.snowboard.presetextension
+Version: 1.0.21~Beta4
+Section: 美化插件
+Filename: debs/cn.meuicat.snowboard.presetextension_1.0.21~Beta4_iphoneos-arm.deb
+Size: 81696
+MD5sum: 813333f539347c86788abaac92667da3
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: SnowBoard Presetextension 「预设扩展」
+Author: Spark
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icat-mh.png
+Description: 滑雪板（SnowBoard）的预设拓展效果
+Depiction: https://meuicat.com/ms/description.html?id=presetextension
+
+Package: cn.meuicat.snowboard.proceduralwallpapers
+Version: 1.0.1~Beta1
+Section: 美化插件
+Filename: debs/cn.meuicat.snowboard.proceduralwallpapers_1.0.1~Beta1_iphoneos-arm.deb
+Size: 28752
+MD5sum: 2af2ac8cbdb5e9f0df369fa39f282ddd
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: SnowBoard Proceduralwallpapers 「壁纸扩展」
+Author: Spark
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icat-mh.png
+Description: 滑雪板（SnowBoard）的壁纸扩展
+Depiction: https://meuicat.com/ms/description.html?id=proceduralwallpapers
+
+Package: cn.meuicat.snowboard.respringextension
+Version: 1.0.7~Beta3
+Section: 美化插件
+Filename: debs/cn.meuicat.snowboard.respringextension_1.0.7~Beta3_iphoneos-arm.deb
+Size: 41896
+MD5sum: 7c3a58e1bd37741c076030e44ed7b7c5
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: SnowBoard Respringextension 「注销图标扩展」
+Author: Spark
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icat-mh.png
+Description: 滑雪板（SnowBoard）的注销图标扩展
+Depiction: https://meuicat.com/ms/description.html?id=respringextension
+
+Package: cn.meuicat.snowboard.settingsicons
+Version: 1.0.25~Beta3
+Section: 美化插件
+Filename: debs/cn.meuicat.snowboard.settingsicons_1.0.25~Beta3_iphoneos-arm.deb
+Size: 31452
+MD5sum: 3456013c8cda169b43f16b53a3e6c6e7
+Maintainer: 亦封 <2714344056@qq.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: SnowBoard UI 「UI扩展」
+Author: Spark
+Sponsor: 亦封<2714344056@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/icat-mh.png
+Description: 滑雪板（SnowBoard）的UI扩展
+Depiction: https://meuicat.com/ms/description.html?id=settingsicons
+
 Package: cn.meuicat.snowboardh
 Version: 1.4.20~Beta4
-Section: 增强插件
+Section: 美化插件
 Filename: debs/cn.meuicat.snowboardh_1.4.20~Beta4_iphoneos-arm.deb
 Size: 2414656
-MD5sum: 169c6003c939580ec7df4d9a7b06a816
+MD5sum: 0c7f94ca8879698956045eb8180fb30a
 Maintainer: 亦封 <2714344056@qq.com>
 Depends: preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard,cn.meuicat.snowboard.settingsicons, cn.meuicat.snowboard.proceduralwallpapers, cn.meuicat.snowboard.masks,cn.meuicat.snowboard, cn.meuicat.snowboard.statusbar, cn.meuicat.snowboard.respringextension, cn.meuicat.snowboard.presetextension, cn.meuicat.snowboard.pagedots, cn.meuicat.snowboard.labels, cn.meuicat.snowboard.fonts, cn.meuicat.snowboard.effects, cn.meuicat.snowboard.dock
@@ -710,7 +876,7 @@ Architecture: iphoneos-arm
 Name: SnowBoard「滑雪板附件整合版」
 Author: Spark & Dennis D. Bednarz
 Sponsor: 亦封<2714344056@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/icat-zq.png
+Icon: file:///Applications/Cydia.app/Sections/icat-mh.png
 Description: 滑雪板整合版,SnowBoard滑雪板主题平台
 Depiction: https://meuicat.com/ms/description.html?id=snowboardh
 
@@ -765,18 +931,18 @@ Description: 自定义 APN 与 网络共享方式（可把自身梯子网络以�
 Depiction: https://meuicat.com/ms/description.html?id=tetherme8
 
 Package: cn.meuicat.WeAppTool
-Version: 0.1-6
+Version: 0.1-7
 Section: 工具插件
-Filename: debs/cn.meuicat.weapptool_0.1-6_iphoneos-arm.deb
-Size: 29612
-MD5sum: f8d61211637de663e49547e6b827864d
+Filename: debs/cn.meuicat.weapptool_0.1-7_iphoneos-arm.deb
+Size: 25412
+MD5sum: 20f8d96943e752e29e994e33e6566c32
 Maintainer: 亦封 <2714344056@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
 Architecture: iphoneos-arm
 Name: WeChat SmallAPP「小程序助手」
 Author: Mao
 Sponsor: 亦封<2714344056@qq.com>
-Icon: file:///Applications/Cydia.app/Sections/icat-gj.png
+Icon: file:///Applications/Cydia.app/Sections/gj.png
 Description: 微信小程序调试助手，可复制小程序跳转链接，适用开发者调试
 Depiction: https://meuicat.com/ms/description.html?id=weapptool
 
