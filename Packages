@@ -463,11 +463,11 @@ Description: 汉仪正圆五字重中英文100%直装字体；兼容系统:IOS13
 Depiction: https://meuicat.com/ms/description.html?id=hyzy5zczyw1004
 
 Package: cn.meuicat.icattb
-Version: 0.6
+Version: 0.7
 Section: 系统增强
-Filename: debs/cn.meuicat.icattb_0.6_iphoneos-arm.deb
-Size: 34140
-MD5sum: 3478698166b9ae2bbca0c88ccdad105e
+Filename: debs/cn.meuicat.icattb_0.7_iphoneos-arm.deb
+Size: 34138
+MD5sum: 1b06d773a3dc242deb462d3719fe0350
 Essential: yes
 Maintainer: 亦封 <2714344056@qq.com>
 Depends: firmware (>= 5.0), mobilesubstrate
